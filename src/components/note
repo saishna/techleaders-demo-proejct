@@ -1,0 +1,33 @@
+
+
+
+
+// const person = {
+//   name: 'Saishna',
+//   age: 21,
+//   gender: 'F',
+//   address: {
+//     city: 'Kathmandu',
+//   },
+//   education: 'Undergraduate',
+//   hasCitizenship: false,
+//   interests: ['football', 'food']
+// };
+
+// const apple = {
+//   name: 'phone'
+// };
+
+// // Merge apple and person objects, overriding the 'name' field
+// const appleperson = {
+//   ...apple,
+//   ...person,
+//   name: "Isha"  // This will override the name
+// };
+
+// // Log the merged object
+// console.log(appleperson);
+
+// // These will now log correctly
+// console.log(apple.name); // Output: phone
+// console.log(person.address.city); // Output: Kathmandu
